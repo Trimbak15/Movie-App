@@ -4,7 +4,14 @@ Made an clone of movie app using technologies like HTML, CSS &amp; JS
 
 https://trimbak15.github.io/Movie-App/
 
-The main motive to build thisa project was to have the understand how to get the information from the server side. And also to attach the photo along with the heading and description.
+The movie website is a dynamic platform that utilizes an API (Application Programming Interface) to retrieve and display movie-related information. The website serves as a hub for movie enthusiasts, providing them with an intuitive and user-friendly interface to search for movies, explore details, and discover new releases.
+
+Key features: 
+* Search Functionality
+* Movie Listings
+* Movie Details
+* Movie Recommendations
+* User Reviews and Ratings
 
 * UI interface
 ![Movieapp1](https://user-images.githubusercontent.com/118504736/233045959-035ef0c2-cd90-4c68-a9c7-d14ee15d5d66.png)
